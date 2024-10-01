@@ -1,4 +1,8 @@
-# Electric Vehicle Technologies Course by Dr. I.Can DİKMEN
+# 
+# Electric Vehicle Technologies Course 
+# Dr. I.Can DİKMEN
+#
+#
 
 ******************************************************************************************************************
 
