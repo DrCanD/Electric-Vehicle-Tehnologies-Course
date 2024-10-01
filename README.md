@@ -1,3 +1,9 @@
+Electric Vehicle Technologies Course by Dr. I.Can DİKMEN
+
+
+
+
+******************************************************************************************************************
 
 # Introduction to MATLAB: Basic Functions, Loops, and Arrays
 ```matlab
